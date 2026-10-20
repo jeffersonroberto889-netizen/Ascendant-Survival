@@ -1,0 +1,70 @@
+## Informações do Pacote
+pack.name=Ascendant Survival
+pack.description=Hiperaddon modular: utilitários essenciais, geração de estruturas e reprodutor de áudio estéreo 2D.
+
+## Menus Gerais
+ascendant.ui.back=⬅️ Voltar
+ascendant.ui.cancel=❌ Desativado
+ascendant.ui.disabled=Desativado
+
+## Mineração (Pickaxe)
+ascendant.mining.title=⛏️ Configuração de Mineração
+ascendant.mining.body=Modo Atual: §e%s§r
+ascendant.mining.normal=§cNormal (1x1)§r
+ascendant.mining.vein=§bVein Miner (Cascata)§r
+ascendant.mining.vein.desc=Quebra veios de minérios conectados
+ascendant.mining.tunnel3x3=§6Túnel 3x3§r
+ascendant.mining.tunnel3x3.desc=Abre túnel 3x3 na direção do olhar
+ascendant.mining.tunnel1x2=§aTúnel Reto (10 Blocos)§r
+ascendant.mining.tunnel1x2.desc=Perfura linha reta ignorando minérios e lava
+
+## Lenhador (Axe)
+ascendant.chopper.title=🪓 Configuração de Lenhador
+ascendant.chopper.body=Modo Atual: §e%s§r
+ascendant.chopper.normal=§cNormal (1x1)§r
+ascendant.chopper.tree=§6Derrubar Árvore Inteira§r
+ascendant.chopper.tree.desc=Quebra todo o tronco conectado
+ascendant.chopper.tree_leaves=§aÁrvore + Folhas§r
+ascendant.chopper.tree_leaves.desc=Derruba o tronco e limpa a copa
+
+## Pá (Shovel)
+ascendant.shovel.title=Configuração da Pá
+ascendant.shovel.normal=§cNormal (1x1)§r
+ascendant.shovel.area3x3=§6Escavação 3x3§r
+ascendant.shovel.area3x3.desc=Terra, areia, cascalho, argila e neve
+
+## Enxada (Hoe)
+ascendant.hoe.title=Configuração da Enxada
+ascendant.hoe.normal=§cNormal (1x1)§r
+ascendant.hoe.area3x3=§aAgricultura 3x3§r
+ascendant.hoe.area3x3.desc=Ara o solo e colhe plantações em área
+
+## Ímã de Drops (Magnet)
+ascendant.magnet.title=🧲 Configuração do Ímã
+ascendant.magnet.body=Modo Atual: §e%s§r\n\nEscolha como os itens minerados devem vir até você:
+ascendant.magnet.off=❌ Desativado\nItens caem no chão
+ascendant.magnet.instant=⚡ Instantâneo\nTeleporta para os pés
+ascendant.magnet.pull=🧲 Atração Suave\nItens flutuam até você
+
+## Perfis de Desempenho
+ascendant.perf.title=⚙️ Ajuste de Desempenho
+ascendant.perf.body=Perfil Atual: §e%s§r\n\nVelocidade de quebra para evitar travamentos:
+ascendant.perf.potato=🥔 Modo Básico (0.5 bloco/tick)\nMáxima estabilidade para aparelhos de entrada
+ascendant.perf.low=📱 Celular / Eco (4 blocos/tick)\n~80 blocos/s - Estável
+ascendant.perf.medium=⚖️ Equilibrado (10 blocos/tick)\n~200 blocos/s - [PADRÃO]
+ascendant.perf.high=🚀 Turbo / PC (25 blocos/tick)\n~500 blocos/s - Para máquinas potentes
+
+## Avisos de Ação (ActionBar)
+ascendant.warn.durability=§c⚠️ AVISO: Durabilidade crítica (%s restante)! Modo em área bloqueado.
+ascendant.action.mode_updated=§a%s: §e%s
+
+## Reprodutor de Música (Spotify)
+ascendant.music.title=🎵 Reprodutor de Música
+ascendant.music.now_playing=Tocando: §e%s§r
+ascendant.music.paused=§7[Pausado]§r
+ascendant.music.play=▶️ Tocar / Pausar
+ascendant.music.next=⏭️ Próxima Faixa
+ascendant.music.prev=⏮️ Faixa Anterior
+ascendant.music.shuffle=🔀 Modo Aleatório
+ascendant.music.repeat=🔁 Repetir Fila
+ascendant.music.stop=⏹️ Parar Música

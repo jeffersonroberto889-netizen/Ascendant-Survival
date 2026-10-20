@@ -1,0 +1,50 @@
+{
+    "format_version":  2,
+    "modules":  [
+                    {
+                        "uuid":  "1126a950-ded2-4a06-a8ad-21cb36256ecf",
+                        "description":  "Script Module",
+                        "language":  "javascript",
+                        "type":  "script",
+                        "entry":  "scripts/main.js",
+                        "version":  [
+                                        1,
+                                        0,
+                                        0
+                                    ]
+                    }
+                ],
+    "dependencies":  [
+                         {
+                             "version":  [
+                                             1,
+                                             0,
+                                             0
+                                         ],
+                             "uuid":  "777900a8-2f51-4e88-9ea6-b4fcab434950"
+                         },
+                         {
+                             "version":  "1.15.0",
+                             "module_name":  "@minecraft/server"
+                         },
+                         {
+                             "version":  "1.3.0",
+                             "module_name":  "@minecraft/server-ui"
+                         }
+                     ],
+    "header":  {
+                   "uuid":  "bf80f5bd-8551-4868-aa8b-03c648bcf038",
+                   "description":  "Ascendant Survival Behavior Pack",
+                   "name":  "Ascendant Survival BP",
+                   "version":  [
+                                   1,
+                                   0,
+                                   0
+                               ],
+                   "min_engine_version":  [
+                                              1,
+                                              21,
+                                              0
+                                          ]
+               }
+}

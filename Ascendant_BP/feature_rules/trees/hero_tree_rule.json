@@ -1,0 +1,35 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:feature_rules": {
+        "description": {
+            "identifier": "ascendant:hero_tree_rule",
+            "places_feature": "ascendant:hero_tree_feature"
+        },
+        "conditions": {
+            "placement_pass": "surface_pass",
+            "minecraft:biome_filter": [
+                {
+                    "any_of": [
+                        {
+                            "test": "has_biome_tag",
+                            "operator": "==",
+                            "value": "forest"
+                        },
+                        {
+                            "test": "has_biome_tag",
+                            "operator": "==",
+                            "value": "plains"
+                        }
+                    ]
+                }
+            ]
+        },
+        "distribution": {
+            "iterations": 1,
+            "scatter_chance": 0.4,
+            "x": 8,
+            "z": 8,
+            "y": "query.heightmap(variable.worldx, variable.worldz)"
+        }
+    }
+}

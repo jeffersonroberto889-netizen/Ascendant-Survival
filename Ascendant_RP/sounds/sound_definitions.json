@@ -1,0 +1,585 @@
+{
+    "format_version":  "1.14.0",
+    "sound_definitions":  {
+                              "music.aria_math_01":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_01",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_01":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_01",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_02":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_02",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_02":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_02",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_03":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_03",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_03":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_03",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_04":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_04",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_04":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_04",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_05":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_05",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_05":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_05",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_06":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_06",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_06":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_06",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_07":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_07",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_07":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_07",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_08":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_08",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_08":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_08",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_09":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_09",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_09":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_09",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_10":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_10",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_10":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_10",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_11":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_11",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_11":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_11",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_12":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_12",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_12":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_12",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_13":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_13",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_13":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_13",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_14":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_14",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_14":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_14",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_15":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_15",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_15":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_15",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_16":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_16",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_16":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_16",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_17":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_17",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_17":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_17",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_18":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_18",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_18":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_18",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_19":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_19",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_19":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_19",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_20":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_20",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_20":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_20",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_21":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_21",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_21":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_21",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_22":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_22",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_22":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_22",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_23":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_23",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_23":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_23",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_24":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_24",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_24":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_24",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_25":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_25",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_25":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_25",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_26":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_26",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_26":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_26",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_27":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_27",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_27":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_27",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.aria_math_28":  {
+                                                         "sounds":  [
+                                                                        {
+                                                                            "name":  "sounds/music/aria_math_28",
+                                                                            "stream":  true,
+                                                                            "load_on_low_memory":  true
+                                                                        }
+                                                                    ],
+                                                         "category":  "music"
+                                                     },
+                              "aria_math_28":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "sounds/music/aria_math_28",
+                                                                      "stream":  true,
+                                                                      "load_on_low_memory":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "music"
+                                               },
+                              "music.jackpot":  {
+                                                    "sounds":  [
+                                                                   {
+                                                                       "name":  "sounds/music/jackpot",
+                                                                       "stream":  true,
+                                                                       "load_on_low_memory":  true
+                                                                   }
+                                                               ],
+                                                    "category":  "music"
+                                                },
+                              "jackpot":  {
+                                              "sounds":  [
+                                                             {
+                                                                 "name":  "sounds/music/jackpot",
+                                                                 "stream":  true,
+                                                                 "load_on_low_memory":  true
+                                                             }
+                                                         ],
+                                              "category":  "music"
+                                          }
+                          }
+}

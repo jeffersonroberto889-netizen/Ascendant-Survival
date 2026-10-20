@@ -1,0 +1,70 @@
+## Pack Info
+pack.name=Ascendant Survival
+pack.description=Modular overhaul addon: essential utilities, custom structure generation, and 2D stereo music player.
+
+## General UI
+ascendant.ui.back=⬅️ Back
+ascendant.ui.cancel=❌ Disabled
+ascendant.ui.disabled=Disabled
+
+## Mining (Pickaxe)
+ascendant.mining.title=⛏️ Mining Configuration
+ascendant.mining.body=Current Mode: §e%s§r
+ascendant.mining.normal=§cNormal (1x1)§r
+ascendant.mining.vein=§bVein Miner§r
+ascendant.mining.vein.desc=Breaks connected ore veins
+ascendant.mining.tunnel3x3=§63x3 Tunnel§r
+ascendant.mining.tunnel3x3.desc=Digs a 3x3 tunnel facing your direction
+ascendant.mining.tunnel1x2=§aStraight Tunnel (10 Blocks)§r
+ascendant.mining.tunnel1x2.desc=Drills forward ignoring ores and lava
+
+## Chopper (Axe)
+ascendant.chopper.title=🪓 Chopper Configuration
+ascendant.chopper.body=Current Mode: §e%s§r
+ascendant.chopper.normal=§cNormal (1x1)§r
+ascendant.chopper.tree=§6Fell Entire Tree§r
+ascendant.chopper.tree.desc=Cuts down connected trunk logs
+ascendant.chopper.tree_leaves=§aTree + Leaves§r
+ascendant.chopper.tree_leaves.desc=Cuts trunk and clears canopy leaves
+
+## Shovel
+ascendant.shovel.title=Shovel Configuration
+ascendant.shovel.normal=§cNormal (1x1)§r
+ascendant.shovel.area3x3=§63x3 Excavation§r
+ascendant.shovel.area3x3.desc=Dirt, sand, gravel, clay, and snow
+
+## Hoe
+ascendant.hoe.title=Hoe Configuration
+ascendant.hoe.normal=§cNormal (1x1)§r
+ascendant.hoe.area3x3=§a3x3 Farming§r
+ascendant.hoe.area3x3.desc=Tills soil and harvests crops in a 3x3 area
+
+## Drop Magnet
+ascendant.magnet.title=🧲 Magnet Configuration
+ascendant.magnet.body=Current Mode: §e%s§r\n\nChoose how mined items should come to you:
+ascendant.magnet.off=❌ Disabled\nItems drop on the ground
+ascendant.magnet.instant=⚡ Instant\nTeleports drops to your feet
+ascendant.magnet.pull=🧲 Smooth Pull\nItems float towards you
+
+## Performance Profiles
+ascendant.perf.title=⚙️ Performance Settings
+ascendant.perf.body=Current Profile: §e%s§r\n\nBreak speed to prevent lag:
+ascendant.perf.potato=🥔 Potato Mode (0.5 block/tick)\nMaximum stability for low-end devices
+ascendant.perf.low=📱 Mobile / Eco (4 blocks/tick)\n~80 blocks/s - Stable
+ascendant.perf.medium=⚖️ Balanced (10 blocks/tick)\n~200 blocks/s - [DEFAULT]
+ascendant.perf.high=🚀 Turbo / PC (25 blocks/tick)\n~500 blocks/s - High-end machines
+
+## ActionBar Warnings
+ascendant.warn.durability=§c⚠️ WARNING: Critical durability (%s left)! Area mode locked.
+ascendant.action.mode_updated=§a%s: §e%s
+
+## Music Player (Spotify)
+ascendant.music.title=🎵 Music Player
+ascendant.music.now_playing=Now Playing: §e%s§r
+ascendant.music.paused=§7[Paused]§r
+ascendant.music.play=▶️ Play / Pause
+ascendant.music.next=⏭️ Next Track
+ascendant.music.prev=⏮️ Previous Track
+ascendant.music.shuffle=🔀 Shuffle Mode
+ascendant.music.repeat=🔁 Repeat Queue
+ascendant.music.stop=⏹️ Stop Music

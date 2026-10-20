@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:weighted_random_feature": {
+    "description": {
+      "identifier": "ascendant:oak_bee_tree_weighted_random_feature"
+    },
+    "features": [
+      [ "ascendant:oak_bee_tree_01_feature", 1 ],
+      [ "ascendant:oak_bee_tree_02_feature", 1 ],
+      [ "ascendant:oak_bee_tree_03_feature", 1 ],
+      [ "ascendant:oak_bee_tree_04_feature", 1 ],
+      [ "ascendant:oak_bee_tree_05_feature", 1 ],
+      [ "ascendant:oak_bee_tree_06_feature", 1 ],
+      [ "ascendant:oak_bee_tree_07_feature", 1 ],
+      [ "ascendant:oak_bee_tree_08_feature", 1 ],
+      [ "ascendant:oak_bee_tree_09_feature", 1 ]
+    ]
+  }
+}

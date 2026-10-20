@@ -1,0 +1,11 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:structure_template_feature": {
+        "description": {
+            "identifier": "ascendant:convento_de_aether_feature"
+        },
+        "structure_name": "dungeons/convento_de_aether",
+        "adjustment_radius": 8,
+        "facing_direction": "random"
+    }
+}

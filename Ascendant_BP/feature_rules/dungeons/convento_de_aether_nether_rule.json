@@ -1,0 +1,33 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:feature_rules": {
+        "description": {
+            "identifier": "ascendant:convento_de_aether_nether_rule",
+            "places_feature": "ascendant:convento_de_aether_feature"
+        },
+        "conditions": {
+            "placement_pass": "underground_pass",
+            "minecraft:biome_filter": [
+                {
+                    "any_of": [
+                        {
+                            "test": "has_biome_tag",
+                            "operator": "==",
+                            "value": "nether"
+                        }
+                    ]
+                }
+            ]
+        },
+        "distribution": {
+            "iterations": 1,
+            "scatter_chance": 0.25,
+            "x": 8,
+            "z": 8,
+            "y": {
+                "distribution": "uniform",
+                "extent": [40, 65]
+            }
+        }
+    }
+}
